@@ -1,1 +1,4 @@
-#This is main branch - for README page
+
+# Merge conflict
+## ## Resolved Conflict during merged - for README page
+

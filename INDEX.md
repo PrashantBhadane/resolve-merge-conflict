@@ -1,1 +1,4 @@
-#This is index page from main branch
+
+# Index page
+## Resolved Conflict during merged - for index page
+
